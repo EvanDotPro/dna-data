@@ -1,7 +1,5 @@
 # Evan's SNP Genotyping Data
 
-_My sample is currently being shipped to and analyzed by the lab. This repository will be updated once my data is made available to me._
-
 ## Introduction
 
 The data in this repository contains around [1 million](http://snpedia.com/index.php?title=Category:On_chip_23andMe_v3) genetic markers called [single-nucleotide polymorphisms](http://en.wikipedia.org/wiki/Single-nucleotide_polymorphism) (SNPs). These SNPs identify various information such as disease risk/resistance/carrier status, drug responses, and various traits including eye color, hair color, lactose intolerance, and much more.
